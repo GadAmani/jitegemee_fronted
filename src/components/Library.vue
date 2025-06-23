@@ -1,0 +1,6 @@
+<script setup>
+</script>
+
+<template>
+    <h1>Courses</h1>
+</template>
