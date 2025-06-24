@@ -7,7 +7,7 @@
     <v-btn to="/Apply" color="grey">Apply</v-btn>
     <v-btn to="/Contact" color="grey">Contact Us</v-btn>
     <v-btn to="/Courses" color="grey">Courses</v-btn>
-    <v-btn to="/" color="grey">Events</v-btn>
+    <v-btn to="/Events" color="grey">Events</v-btn>
     <v-btn to="/" color="grey">Library</v-btn>
     <v-btn to="/" color="grey">Student Life</v-btn>
     <v-btn to="/" color="grey">Login</v-btn>
