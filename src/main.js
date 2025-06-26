@@ -22,7 +22,10 @@ const vuetify = createVuetify({
 })
 const app = createApp(App)//important line
 
-app.use(createPinia())
+const pinia = createPinia()
+pinia.use(piniaPluginPersistedstate)
+
+app.use(pinia)
 app.use(router)
 app.use(vuetify)
 
